@@ -3,3 +3,5 @@ Plik do dalszej pracy
 Kontrola
 
 commit 2
+
+commit 3
