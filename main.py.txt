@@ -5,3 +5,5 @@ Kontrola
 commit 2
 
 commit 3
+
+zmiana2 branch
