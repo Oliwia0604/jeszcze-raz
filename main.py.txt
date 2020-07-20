@@ -9,3 +9,5 @@ commit 3
 zmiana2 branch
 
 kolejna próba
+
+kolejne ciwczenie
